@@ -1,0 +1,13 @@
+.addNoteSection {
+    text-align: center;
+}
+
+.addNoteForm {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-noteFormSubmit {
+    margin-top: 20px;
+    padding: 10px;
+}

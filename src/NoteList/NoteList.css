@@ -1,0 +1,33 @@
+.noteListItem {
+    display: flex;
+    width: 300px;
+    margin-bottom: 15px;
+    background-color: rgb(21, 21, 73);
+    color: white;
+    padding-left: 10px;
+}
+
+.btn-deleteCompactNote {
+    border: none;
+    background-color: rgb(35, 35, 107);
+    color: white;
+}
+
+.btn-addNote {
+    display: flex;
+    align-items: center;
+}
+
+.btn-addNote button {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 40px 20px;
+    border-radius: 50%;
+    margin-bottom: 70px;
+}
+
+.noteListItemPath {
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,7 @@
+.folderLink {
+    text-decoration: none;
+}
+
+.folderName, .numNotes {
+    color: white;
+}

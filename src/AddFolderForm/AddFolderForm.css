@@ -1,0 +1,32 @@
+.addFolderContainer {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 100%;
+}
+
+.folderConAlign {
+    display: flex;
+}
+
+form {
+    background-color: rgb(21, 21, 73);
+    width: 500px;
+    padding: 30px;
+    color: white;
+}
+
+.addFolderTitle {
+    color: black;
+}
+
+.inputField {
+    height: 40px;
+    width: 300px;
+    font-size: 25px;
+}
+
+.inputLabel {
+    font-size: 25px;
+    margin-bottom: 20px;
+}

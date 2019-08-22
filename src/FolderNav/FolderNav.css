@@ -1,0 +1,9 @@
+.selectedFolderList {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-addNote {
+    display: flex;
+    justify-content: center;
+}

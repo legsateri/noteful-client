@@ -1,0 +1,27 @@
+ul {
+    list-style: none;
+}
+
+.folderListItem {
+    margin-bottom: 15px;
+    background-color: rgb(21, 21, 73);
+    padding-left: 10px;
+    padding-bottom: 3px;
+}
+
+.folderList {
+    width: 300px;
+}
+
+.btn-addFolder {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-addFolder button {
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 40px 20px;
+    border-radius: 50%;
+}
