@@ -39,7 +39,7 @@ export default class Note extends Component {
         const noteId = parseInt(this.props.match.params.noteId);
         const note = this.context.notes.find(note => note.id === noteId);
         const folder = this.context.folders.find(folder => folder.id === parseInt(note.folder_id));
-        console.log(note);
+        console.log({note});
         
         return (
             <section className="noteAlign">
